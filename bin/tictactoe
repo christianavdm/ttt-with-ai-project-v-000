@@ -81,7 +81,7 @@ def wargames
   puts "Player 2 won #{new_game.player_2_wins} times."
   puts "The cat won #{new_game.catsgames} times."
   play_again? 
-end
+  end
 
 def play_again? 
   input = "input"
